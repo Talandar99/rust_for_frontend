@@ -3,3 +3,6 @@
   - rust (WASM)
   - html
   - css
+
+## how to run
+  - ``trunk serve`` 
