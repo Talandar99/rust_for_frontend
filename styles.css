@@ -2,8 +2,15 @@ body {
 	background-color: BurlyWood;
 }
 h1 {
-  color: Chocolate;
+	display: flex;
+	justify-content: center;
+	color: Chocolate;
 }
 div {
+	display: flex;
+	justify-content: center;
 	color: Chocolate;
+}
+p {
+	font-size: 20px;
 }
