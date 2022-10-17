@@ -1,6 +1,6 @@
 # rust_for_frontend
 - prototype of frontend website using:
-  - rust (WASM)
+  - rust (compiles into WASM)
   - html
   - css
 
