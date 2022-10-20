@@ -43,9 +43,9 @@ impl Component for Model {
                 <h1>{ "🦀" }</h1>
                 <h2>{"Join Crab Cult"}</h2>
                 <div>
-                    <p><button onclick={link.callback(|_| Msg::SubstractOne)}>{ " -1 " }</button></p>
-                    <p>{"🦀__{"}</p><p>{ self.value }</p><p>{"}__🦀"}</p>
-                    <p><button onclick={link.callback(|_| Msg::AddOne)}>{ " +1 " }</button></p>
+                    <p><button onclick={link.callback(|_| Msg::SubstractOne)}>{ " -🦀 " }</button></p>
+                    <p>{"__{"}</p><p>{ self.value }</p><p>{"}__"}</p>
+                    <p><button onclick={link.callback(|_| Msg::AddOne)}>{ " +🦀 " }</button></p>
                 </div>
             </body>
         }

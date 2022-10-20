@@ -19,5 +19,6 @@ div {
 	font-size: 20px;
 }
 button{
-	background-color: DarkOrange;
+	color: DarkOrange;
+	background-color: Black;
 }
