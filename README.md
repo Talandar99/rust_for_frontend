@@ -13,6 +13,7 @@
   - ``trunk serve`` 
 		
 ## Docker Image (Building and running)
+  - install docker
   - `trunk build` 
   - `docker build . -t html-image`
   - `docker run -d -p 8080:80 html-image` 
