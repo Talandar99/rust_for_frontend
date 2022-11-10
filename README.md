@@ -6,7 +6,7 @@
 
 ## Setup  
   - Install rustup
-  - `rustup default stable` to download the latest stable release of Rust and set it as your default toolchain.  
+  - `rustup default stable` download the latest stable release of Rust and set it as your default toolchain.  
   - ``rustup target add wasm32-unknown-unknown ``
   - ``cargo install trunk ``
   - ``export PATH="$HOME/.cargo/bin:$PATH" ``
